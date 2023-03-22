@@ -3,7 +3,7 @@ JRE é o ambiente de execução Java. É o mínimo necessário para execução d
 JDK é o kit de desenvolvimento Java. Contém o compilador javac, um depurador e o JRE para execução do programa.
 
 # 7 Experimente escrever todo o programa anterior em maiúsculo, compile e execute. O que aconteceu?
-
+Com todas as palavras escritas em maiúsculo, o compilador não reconhece as palavras-chave, e não é possível gerar o programa executável.
 
 # 8 Experimente salvar o arquivo com um nome diferente do nome da classe,compile e execute. O que aconteceu?
 A compilação ocorre sem problemas, desde que a classe não seja explicitamente public. O arquivo .class gerado continua tendo o nome da classe, e não do arquivo fonte .java.

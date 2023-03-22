@@ -1,5 +1,5 @@
-class NomeTime {
-    public static void main(String[] args){
+CLASS NOMETIME {
+    PUBLIC STATIC VOID MAIN(String[] args){
         System.out.println("Verissimo");
         System.out.println("Sousa");
     }
